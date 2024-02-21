@@ -1,0 +1,25 @@
+Gender,Customer type,Product line,Total
+Female,Member,Electronic accessories,11153.5515
+Female,Member,Fashion accessories,15122.656500000001
+Female,Member,Food and beverages,19598.8065
+Female,Member,Health and beauty,8379.3885
+Female,Member,Home and lifestyle,17234.322
+Female,Member,Sports and travel,16658.2185
+Female,Normal,Electronic accessories,15948.471
+Female,Normal,Fashion accessories,15314.7435
+Female,Normal,Food and beverages,13572.111
+Female,Normal,Health and beauty,10181.598
+Female,Normal,Home and lifestyle,12802.5555
+Female,Normal,Sports and travel,11916.5025
+Male,Member,Electronic accessories,13344.9435
+Male,Member,Fashion accessories,11201.3055
+Male,Member,Food and beverages,11758.8135
+Male,Member,Health and beauty,17451.651
+Male,Member,Home and lifestyle,10743.705
+Male,Member,Sports and travel,11576.082
+Male,Normal,Electronic accessories,13890.5655
+Male,Normal,Fashion accessories,12667.1895
+Male,Normal,Food and beverages,11215.113
+Male,Normal,Health and beauty,13181.1015
+Male,Normal,Home and lifestyle,13081.3305
+Male,Normal,Sports and travel,14972.0235

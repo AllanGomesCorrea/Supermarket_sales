@@ -1,0 +1,25 @@
+Gender,Customer type,Product line,Quantity
+Female,Member,Electronic accessories,208
+Female,Member,Fashion accessories,257
+Female,Member,Food and beverages,286
+Female,Member,Health and beauty,158
+Female,Member,Home and lifestyle,291
+Female,Member,Sports and travel,292
+Female,Normal,Electronic accessories,280
+Female,Normal,Fashion accessories,273
+Female,Normal,Food and beverages,228
+Female,Normal,Health and beauty,185
+Female,Normal,Home and lifestyle,207
+Female,Normal,Sports and travel,204
+Male,Member,Electronic accessories,221
+Male,Member,Fashion accessories,182
+Male,Member,Food and beverages,220
+Male,Member,Health and beauty,270
+Male,Member,Home and lifestyle,199
+Male,Member,Sports and travel,201
+Male,Normal,Electronic accessories,262
+Male,Normal,Fashion accessories,190
+Male,Normal,Food and beverages,218
+Male,Normal,Health and beauty,241
+Male,Normal,Home and lifestyle,214
+Male,Normal,Sports and travel,223
