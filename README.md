@@ -20,8 +20,7 @@ Nesse projeto foi utilizado Power BI e Python
 
 # Como executar o projeto
 
-## Back end
-Pré-requisitos: Django e Python
+Pré-requisitos: Python
 
 ```bash
 # clonar repositório
@@ -48,7 +47,7 @@ python dashboard.py
 
 Algumas análises prévias foram feitas utilizando a biblioteca Pandas e plotando alguns gráficos a parte. Uma pré visualização do dashboard pode ser acompanhada a seguir:
 
-![mostrar dashboard](Screen Shot 2024-02-19 at 12.43.51.png)
+![Mostrar dashboard](dash_python.png)
 
 # Autor
 
