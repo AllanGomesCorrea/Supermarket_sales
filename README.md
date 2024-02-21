@@ -2,8 +2,7 @@
 
 Ainda em construção.
 
-Objetivo: Contruir um dashboard utilizando python para análise de dados de um supermercado retirado da plataforma Kaggle (https://www.kaggle.com/datasets/aungpyaeap/supermarket-sales/data
-import pandas as pd).
+Objetivo: Contruir um dashboard utilizando python para análise de dados de um supermercado retirado da plataforma Kaggle (https://www.kaggle.com/datasets/aungpyaeap/supermarket-sales/data).
 
 Primeiramente foi contruído um dashboard com Power BI. Com python e a biblioteca Dash, o intuito do código é gerar um dashboard igual ou parecido com esse:
 
